@@ -31,7 +31,6 @@
     border-radius: 50%;
     background-image: linear-gradient(to right, #fb5dad, #55fb9f, #b97aff 100%);
     opacity: 0.95;
-    box-shadow: 0 0 5px #050210 inset;
     filter: blur(90px);
   }
   #wheel::after {
